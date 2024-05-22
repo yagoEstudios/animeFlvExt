@@ -1,6 +1,8 @@
 # animeFlvExt
 Extraer lista de animes y por que capítulo vas
 
+**NOTA SOLO FUNCIONA EN LA WEB https://www3.animeflv.net** 
+
 # Guía de Instalación de la Extensión AnimeFLV Extractor
 
 Esta extensión te permite extraer automáticamente el nombre del anime y el número del episodio cuando visites una página de AnimeFLV en tu navegador Google Chrome.
