@@ -13,7 +13,7 @@ Esta extensión te permite extraer automáticamente el nombre del anime y el nú
 
    - Puedes descargar el código fuente de la extensión desde [animeFlvExt.zip](https://github.com/yagoEstudios/animeFlvExt/blob/main/animeFlvExt.zip) 
 
-2. **Extrae el Archivo Zip (si es necesario)**
+2. **Extrae el Archivo Zip**
 
    - Si el código fuente está comprimido en un archivo zip, asegúrate de extraerlo en una ubicación accesible en tu ordenador.
 
