@@ -1,5 +1,7 @@
 # animeFlvExt
-Extraer lista de animes y por que capítulo vas
+Extraer lista de animes y por que capítulo vas.
+
+![Así se ve](ejemplo.png)
 
 # **NOTA: SOLO FUNCIONA EN LA WEB https://www3.animeflv.net** 
 
