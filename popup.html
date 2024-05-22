@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnimeFLV Extractor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>AnimeFLV Extractor</h1>
+    
+    <div class="anime-list" id="anime-list">
+      <p>Cargando animes...</p>
+    </div>
+
+    <div class="actions">
+      <button class="button" id="borrarTodo">Borrar Todo</button>
+      <button class="button" id="exportarAnimes">Exportar Lista</button>
+      <label for="importarAnimes" class="file-label">Importar Lista</label>
+      <input type="file" id="importarAnimes" class="file-input" accept=".json">
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

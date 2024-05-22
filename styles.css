@@ -1,0 +1,97 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1f1f1f;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .anime-list {
+    background-color: #333;
+    border-radius: 8px;
+    padding: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+  }
+  
+  .anime {
+    background-color: #444;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .anime h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .anime p {
+    margin: 5px 0;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .file-input {
+    display: none;
+  }
+  
+  .file-label {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .file-label:hover {
+    background-color: #218838;
+  }
+  
+  .file-label:active {
+    background-color: #1e7e34;
+  }
+  

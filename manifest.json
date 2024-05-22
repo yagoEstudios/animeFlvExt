@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "AnimeFLV Extractor",
+  "version": "1.0",
+  "description": "Extracts anime name and episode number from AnimeFLV URLs",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "theme": {
+    "colors": {
+      "popup": "#222"
+    }
+  }
+}
