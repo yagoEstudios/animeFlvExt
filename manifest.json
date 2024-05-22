@@ -7,18 +7,17 @@
     "tabs",
     "storage"
   ],
+
   "background": {
     "service_worker": "background.js"
   },
+
   "action": {
     "default_popup": "popup.html"
   },
+
   "icons": {
     "48": "icon.png"
-  },
-  "theme": {
-    "colors": {
-      "popup": "#222"
-    }
   }
 }
+
