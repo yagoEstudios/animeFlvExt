@@ -1,7 +1,7 @@
 # animeFlvExt
 Extraer lista de animes y por que capítulo vas
 
-**NOTA SOLO FUNCIONA EN LA WEB https://www3.animeflv.net** 
+# **NOTA: SOLO FUNCIONA EN LA WEB https://www3.animeflv.net** 
 
 # Guía de Instalación de la Extensión AnimeFLV Extractor
 
